@@ -1,0 +1,14 @@
+{
+  "name": "devopca2",
+  "version": "1.0.0",
+  "description": "DevOps CA2 Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aditya Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
